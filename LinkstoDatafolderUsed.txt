@@ -1,2 +1,0 @@
-- MURA database is here in my drive: https://drive.google.com/drive/folders/1oi4cwqoqcoI22BcLPptZf0ZoBgLWt-vK?usp=share_link
-- Data made and used for StyleGAN2-ADA-Pytorch is here in my drive: https://drive.google.com/drive/folders/1PRVGdGPiz3X-xlbXKvaKEm1TSFNPni3N?usp=share_link
